@@ -39,3 +39,6 @@ Lab Thread Java Programing
 Result
 
 ![ReTh](https://user-images.githubusercontent.com/62991197/100731543-1c091880-33fe-11eb-8825-22b6de846a1f.jpg)
+
+![214](https://user-images.githubusercontent.com/62991197/100731986-b6695c00-33fe-11eb-8f79-271f46be28a8.jpg)
+
