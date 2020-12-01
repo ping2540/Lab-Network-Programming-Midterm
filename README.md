@@ -32,3 +32,10 @@ Result
 
 ![45](https://user-images.githubusercontent.com/62991197/100727503-ed3c7380-33f8-11eb-8bec-d350b8c6931e.jpg)
 
+Lab Thread Java Programing
+
+![Thread](https://user-images.githubusercontent.com/62991197/100730944-53c39080-33fd-11eb-8920-96ebfaecd3e9.jpg)
+
+Result
+
+![ReTh](https://user-images.githubusercontent.com/62991197/100731543-1c091880-33fe-11eb-8825-22b6de846a1f.jpg)
