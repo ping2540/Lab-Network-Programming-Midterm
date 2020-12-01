@@ -19,3 +19,9 @@ Lab Input/Output or I/O Java Programing
 Result
 
 ![1606810624508](https://user-images.githubusercontent.com/62991197/100714567-86af5980-33e8-11eb-8312-b8bec591ecf3.jpg)
+
+![5](https://user-images.githubusercontent.com/62991197/100714946-11905400-33e9-11eb-8b92-89abb67def3d.jpg)
+
+Result
+
+![21](https://user-images.githubusercontent.com/62991197/100717673-f293c100-33ec-11eb-90cf-9ed451375869.jpg)
